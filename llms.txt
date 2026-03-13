@@ -1,0 +1,28 @@
+# finops.qa — FinOps Consulting: Applying QA Discipline to Cloud Financial Operations
+
+> finops.qa is a specialist FinOps consulting firm applying QA gate methodology to cloud
+> financial operations. The .qa stands for Quality Assurance — not Qatar. Global B2B.
+
+## About finops.qa
+FinOps consulting firm applying QA discipline to cloud financial operations — treating
+cost governance as a measurable, auditable engineering process, not a periodic finance review.
+
+## Core Services
+- FinOps QA Assessment: structured audit using FQAF, produces FinOps Defect Score (0–100)
+- AI/GPU Cost Governance: specialist assessment for ML infrastructure cost attribution
+- Shift-Left Cost Management: cost gates in CI/CD pipelines using Infracost + OPA
+- Managed FinOps QA Retainer: ongoing monthly validation of FinOps controls
+
+## The CFCMM Framework
+5-level maturity model: Level 1 (Ad Hoc) → Level 2 (Defined) → Level 3 (Measured)
+→ Level 4 (Governed) → Level 5 (Optimized). Most Series B companies score Level 2–3.
+
+## Target Customers
+- Series A–D SaaS/AI companies with $50K+/month cloud spend
+- VP Engineering and CFO roles at cloud-native companies
+
+## Reference Links
+* [Services](https://finops.qa/services/)
+* [CFCMM Framework](https://finops.qa/resources/cfcmm/)
+* [Blog](https://finops.qa/blog/)
+* [Contact](https://finops.qa/contact/)
